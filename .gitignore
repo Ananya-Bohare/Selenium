@@ -1,0 +1,27 @@
+# Maven
+target/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Selenium drivers
+src/test/resources/drivers/
+
+# Generated reports
+cucumber-report-html/
